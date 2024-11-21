@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Mobile Automation Suite" parallel="tests" thread-count="1">
+    <test name="Mobile Automation Tests">
+        <classes>
+            <class name="mobileautomation.test.TestSuite"/>
+        </classes>
+    </test>
+</suite>
